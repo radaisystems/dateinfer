@@ -1,3 +1,5 @@
+Rad AI fork of dateinfer. Repo is useful for getting datetime format strings from raw text but the original author disappeared and won't merge the PR's required to make it work on python3. This is a working replica of one of the PR's
+
 dateinfer
 =========
 
